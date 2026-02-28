@@ -11,6 +11,8 @@ O projeto demonstra:
 * Interface organizada com sidebar de configurações
 * Streaming de respostas token a token
 
+![Preview da Aplicação](doc/evidencia.png)
+
 ---
 
 # 📌 Objetivo do Projeto
